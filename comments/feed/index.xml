@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en Ditar	</title>
-	<atom:link href="http://ditar.co/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ditar.co/</link>
+	<atom:link href="https://ditar.co/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ditar.co/</link>
 	<description>Imprime inteligente</description>
 	<lastBuildDate>Fri, 14 Oct 2022 16:44:43 +0000</lastBuildDate>
 	<sy:updatePeriod>
