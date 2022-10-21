@@ -3,13 +3,13 @@
 	font-style: normal;
 	font-weight: normal;
 	font-display: auto;
-	src: url('https://ditar-static.e-me.co/wp-content/uploads/2022/10/GothamRoundedBook_21018.ttf') format('truetype');
+	src: url('http://ditar.co/wp-content/uploads/2022/10/GothamRoundedBook_21018.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Gotham Rounded';
 	font-style: normal;
 	font-weight: bold;
 	font-display: auto;
-	src: url('https://ditar-static.e-me.co/wp-content/uploads/2022/10/GothamRoundedBold_21016.ttf') format('truetype');
+	src: url('http://ditar.co/wp-content/uploads/2022/10/GothamRoundedBold_21016.ttf') format('truetype');
 }
 /* End Custom Fonts CSS */
