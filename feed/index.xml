@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Ditar</title>
-	<atom:link href="http://ditar.co/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ditar.co/</link>
+	<atom:link href="https://ditar.co/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ditar.co/</link>
 	<description>Imprime inteligente</description>
 	<lastBuildDate>Fri, 14 Oct 2022 16:44:43 +0000</lastBuildDate>
 	<language>es</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 
 <image>
-	<url>http://ditar.co/wp-content/uploads/2022/10/fav-ditar-black.png</url>
+	<url>https://ditar.co/wp-content/uploads/2022/10/fav-ditar-black.png</url>
 	<title>Ditar</title>
-	<link>http://ditar.co/</link>
+	<link>https://ditar.co/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
