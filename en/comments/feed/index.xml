@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirigiendo...</title>
-		<meta http-equiv="refresh" content="0;url=/en/feed/">
+		<meta http-equiv="refresh" content="0;url=.//en/feed/">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "/en/feed/";
+			window.location = ".//en/feed/";
 		</script>
 
-		<p>Estás siendo redirigido a <a href="/en/feed/">/en/feed/</a></p>
+		<p>Estás siendo redirigido a <a href=".//en/feed/">.//en/feed/</a></p>
 	</body>
 </html>

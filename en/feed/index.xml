@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comentarios en: 	</title>
-	<atom:link href="/en/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Imprime inteligente</description>
 	<lastBuildDate>Wed, 08 Nov 2023 20:33:47 +0000</lastBuildDate>
