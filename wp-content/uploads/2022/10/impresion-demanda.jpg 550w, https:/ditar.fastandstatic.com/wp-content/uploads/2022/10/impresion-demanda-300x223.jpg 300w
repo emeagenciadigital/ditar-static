@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirigiendo...</title>
-		<meta http-equiv="refresh" content="0;url=/wp-content/uploads/2022/10/impresion-demanda.jpg%20550w,%20https:/ditar.fastandstatic.com/wp-content/uploads/2022/10/impresion-demanda-300x223.jpg%20300w">
+		<meta http-equiv="refresh" content="0;url=.//wp-content/uploads/2022/10/impresion-demanda.jpg%20550w,%20https:/ditar.fastandstatic.com/wp-content/uploads/2022/10/impresion-demanda-300x223.jpg%20300w">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "/wp-content/uploads/2022/10/impresion-demanda.jpg%20550w,%20https:/ditar.fastandstatic.com/wp-content/uploads/2022/10/impresion-demanda-300x223.jpg%20300w";
+			window.location = ".//wp-content/uploads/2022/10/impresion-demanda.jpg%20550w,%20https:/ditar.fastandstatic.com/wp-content/uploads/2022/10/impresion-demanda-300x223.jpg%20300w";
 		</script>
 
-		<p>Estás siendo redirigido a <a href="/wp-content/uploads/2022/10/impresion-demanda.jpg%20550w,%20https:/ditar.fastandstatic.com/wp-content/uploads/2022/10/impresion-demanda-300x223.jpg%20300w">/wp-content/uploads/2022/10/impresion-demanda.jpg%20550w,%20https:/ditar.fastandstatic.com/wp-content/uploads/2022/10/impresion-demanda-300x223.jpg%20300w</a></p>
+		<p>Estás siendo redirigido a <a href=".//wp-content/uploads/2022/10/impresion-demanda.jpg%20550w,%20https:/ditar.fastandstatic.com/wp-content/uploads/2022/10/impresion-demanda-300x223.jpg%20300w">.//wp-content/uploads/2022/10/impresion-demanda.jpg%20550w,%20https:/ditar.fastandstatic.com/wp-content/uploads/2022/10/impresion-demanda-300x223.jpg%20300w</a></p>
 	</body>
 </html>
